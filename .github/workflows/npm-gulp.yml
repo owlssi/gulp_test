@@ -26,5 +26,3 @@ jobs:
       run: |
         npm install
         gulp
-      width:
-        publish_dir: ./build
